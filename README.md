@@ -1,2 +1,3 @@
 # contoh
 check
+check2
